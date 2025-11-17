@@ -5,54 +5,54 @@ GardenDiary|我的花園日記:以照片文字紀錄植物生活
 詳見app store<br/>
 
 ## 功能特色
-✨ 核心功能特色：
-📷 每日拍照記錄：
-隨時為您的多肉植物新增照片，並將照片儲存在 App 沙盒中。
+✨ 核心功能特色：<br/>
+📷 每日拍照記錄：<br/>
+隨時為您的多肉植物新增照片，並將照片儲存在 App 本地。
 可選擇拍照或從相簿中上傳照片。
-照片支援全螢幕瀏覽與下載到相簿功能，方便您分享或備份。
-⚠️ 智慧照護提醒：
+照片支援全螢幕瀏覽與下載到相簿功能，方便您分享或備份。<br/>
+⚠️ 智慧照護提醒：<br/>
 自動追蹤您的澆水與維護記錄。
 若超過 7 天未澆水或 14 天未維護，植物卡片上將顯示醒目的紅色提醒。
-提醒優先級：澆水提醒 (7 天) > 維護提醒 (14 天)。
-📅 月曆檢視：
+提醒優先級：澆水提醒 (7 天) > 維護提醒 (14 天)。<br/>
+📅 月曆檢視：<br/>
 所有日記記錄將顯示在專屬月曆中，讓您一目瞭然地查看每日的照護行程。
-輕鬆點選日期，查看當天為哪株植物進行了澆水、施肥等活動。
-🌱 植物資料管理：
-新增與編輯植物： 記錄多肉名（必填）、小名、科屬、種類、購買日/地及備註等詳細資訊。
-代表照片： 為每株植物設定一張封面照片，方便在花園列表和詳情頁面中快速識別。
-字數限制與驗證： 欄位皆設有字數上限，並提供即時字數統計和必填欄位檢查。
-💧 日記記錄功能：
-多樣化記錄： 除了照片和文字外，您還可以勾選施肥、除草、除蟲、澆水、修剪等五種照護活動。
-編輯記錄： 隨時修改已存在的日記條目，包括日期、照片、活動和文字。
-文字記錄上限： 支援最多 500 字的詳細記錄。
-立即下載 GardenDiary，讓您的植物照護之旅更加有條不紊，見證每一次美麗的成長！
+輕鬆點選日期，查看當天為哪株植物進行了澆水、施肥等活動。<br/>
+🌱 植物資料管理：<br/>
+新增與編輯植物： 記錄多肉名（必填）、小名、科屬、種類、購買日/地及備註等詳細資訊。<br/>
+代表照片： 為每株植物設定一張封面照片，方便在花園列表和詳情頁面中快速識別。<br/>
+字數限制與驗證： 欄位皆設有字數上限，並提供即時字數統計和必填欄位檢查。<br/>
+💧 日記記錄功能：<br/>
+多樣化記錄： 除了照片和文字外，您還可以勾選施肥、除草、除蟲、澆水、修剪等五種照護活動。<br/>
+編輯記錄： 隨時修改已存在的日記條目，包括日期、照片、活動和文字。<br/>
+文字記錄上限： 支援最多 500 字的詳細記錄。<br/>
+立即下載 GardenDiary，讓您的植物照護之旅更加有條不紊，見證每一次美麗的成長！<br/>
 
 GardenDiary: Your Ultimate Succulent Plant Journal & Care Tracker
 Do you often forget when you last watered your succulent? Do you want a beautiful way to document your plant's growth journey? GardenDiary is the perfect journaling app designed for all plant enthusiasts! Effortlessly track every detail of your plants, care activities, and essential information.
-
-✨ Key Features:
-📷 Daily Photo Journaling:
+<br/>
+✨ Key Features<br/>
+📷 Daily Photo Journaling:<br/>
 Easily add photos for your succulent plants, with storage in the App Sandbox.
 Choose between taking a Photo or selecting from your Photo Library.
-View photos in full screen and Save to Photo Library for easy sharing and backup.
-⚠️ Smart Care Reminders:
+View photos in full screen and Save to Photo Library for easy sharing and backup.<br/>
+⚠️ Smart Care Reminders:<br/>
 The app automatically tracks your watering and maintenance history.
 If a plant hasn't been watered for over 7 days or maintained for over 14 days, a prominent Red Reminder will appear on the plant card.
-Priority: Watering Reminder (7 Days) > Maintenance Reminder (14 Days).
-📅 Calendar View:
+Priority: Watering Reminder (7 Days) > Maintenance Reminder (14 Days).<br/>
+📅 Calendar View:<br/>
 All your diary entries are organized in a dedicated calendar, allowing you to quickly review daily care schedules。
-Tap on any date to see which plants were watered, fertilized, or pruned。
-🌱 Plant Data Management:
+Tap on any date to see which plants were watered, fertilized, or pruned。<br/>
+🌱 Plant Data Management:<br/>
 Add & Edit Plants: Record essential details like Name (required), Nickname, Family, Species, Purchase Date/Location, and Notes。
 Cover Photo: Set a representative photo for each plant to quickly identify them in the Garden list and detail views。
-Validation: All fields have character limits, with real-time word count and required field checks。
-💧 Diary Entry Features:
-Multiple Activities: Besides photos and notes, you can log up to five care activities: Fertilizing (施肥), Weeding (除草), Pest Control (除蟲), Watering (澆水), and Pruning (修剪)。
-Entry Editing: Modify existing diary entries at any time, including the date, photos, activities, and notes。
-Notes: Support up to 500 characters for detailed textual observations。
-Download GardenDiary now to organize your plant care journey and witness every beautiful moment of growth!
+Validation: All fields have character limits, with real-time word count and required field checks。<br/>
+💧 Diary Entry Features:<br/>
+Multiple Activities: Besides photos and notes, you can log up to five care activities: Fertilizing (施肥), Weeding (除草), Pest Control (除蟲), Watering (澆水), and Pruning (修剪)。<br/>
+Entry Editing: Modify existing diary entries at any time, including the date, photos, activities, and notes。<br/>
+Notes: Support up to 500 characters for detailed textual observations。<br/>
+Download GardenDiary now to organize your plant care journey and witness every beautiful moment of growth!<br/>
 
-##GardenDiary 隱私政策
+## GardenDiary 隱私政策
 
 最後更新日期： 2025 年 11 月 17 日
 GardenDiary 應用程式（以下簡稱「本應用程式」）致力於保護使用者的隱私。本應用程式是一款植物照護日記工具，我們深知使用者對其個人資料和植物記錄的重視。本政策旨在說明我們如何處理您在使用本應用程式時所提供的資訊。
@@ -130,7 +130,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 If you have any questions about this Privacy Policy, please contact us:
 Email:es.xing.dev@gmail.com
 
-##GardenDiary - 我的花園 支援中心
+## GardenDiary - 我的花園 支援中心
 
 感謝您使用 GardenDiary！我們致力於讓您的植物照護日記體驗更加順暢。
 🌿 疑難排解與常見問題 (FAQ)
